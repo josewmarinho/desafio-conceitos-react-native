@@ -1065,10 +1065,10 @@
   dependencies:
     type-detect "4.0.8"
 
-"@testing-library/jest-native@^3.1.0":
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/@testing-library/jest-native/-/jest-native-3.1.0.tgz#414c834dfb524ca82b86509d5479e365d4d5bbec"
-  integrity sha512-MZdsTsD6xrP5V0FTz2gVPG00ZMoKn4WniRitUH40zZTQ0DfMa5CVDpkAd5ed6qX1coDwS8vSCZS/JGMIDYjRQQ==
+"@testing-library/jest-native@^4.0.2":
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/@testing-library/jest-native/-/jest-native-4.0.2.tgz#dfed231ae45ee27fdf48323b5eac344d4906df99"
+  integrity sha512-GJBe/aAJeWNG9aZUyp92dNtkh0wbYH3c3XRwKT8PvpPccJn/dI+R+87MMGiruLtJwGKuTtov2rC0DTautPDirg==
   dependencies:
     chalk "^2.4.1"
     jest-diff "^24.0.0"
